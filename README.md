@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-04-30 at 16 16 17_ef4c1416](https://github.com/user-attachments/assets/ed4c1db1-2687-45a3-b20d-41ecc31b0615)
 -### 👋 Hi, I’m Ahmed Essam Mohamed
 
 - 👀 I’m interested in **Data Engineering, Machine Learning, and Big Data Technologies**
